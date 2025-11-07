@@ -6,7 +6,7 @@
 - clean: ['~']
 
 - link:
-    ~/.zshrc: zshrc
+    ~/.zshrc: config/zshrc
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
