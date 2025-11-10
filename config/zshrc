@@ -130,3 +130,4 @@ alias mylinks='find ~/.local/bin/ -type l -exec ls -la {} \;'
 export PATH="/home/howis/.local/bin:$PATH"
 export PULSE_SERVER=unix:/mnt/wslg/PulseServer
 export PATH="/snap/bin:$PATH"
+export BROWSER="/mnt/c/Program\ Files/Zen\ Browser/zen.exe"
