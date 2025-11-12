@@ -44,7 +44,6 @@ bars:
       center:
       - "clock"
       right:
-      - "media"
       - "systray"
       - "microphone"
       - "volume"
