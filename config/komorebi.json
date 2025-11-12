@@ -9,45 +9,44 @@
   "border_width": 0,
   "border_offset": 0,
   "mouse_follows_focus": true,
-  "theme": {
-    "palette": "Base16",
-    "name": "Ashes",
-    "unfocused_border": "Base03",
-    "bar_accent": "Base0D"
-  },
+  "remove_titlebars": true,
   "monitors": [
     {
       "workspaces": [
         {
-          "name": "I",
+          "name": "1",
           "layout": "BSP"
         },
         {
-          "name": "II",
+          "name": "2",
           "layout": "BSP"
         },
         {
-          "name": "III",
+          "name": "3",
           "layout": "BSP"
         },
         {
-          "name": "IV",
+          "name": "4",
           "layout": "BSP"
         },
         {
-          "name": "V",
+          "name": "5",
           "layout": "BSP"
         },
         {
-          "name": "VI",
+          "name": "6",
           "layout": "BSP"
         },
         {
-          "name": "VII",
+          "name": "7",
           "layout": "BSP"
         },
         {
-          "name": "VIII",
+          "name": "8",
+          "layout": "BSP"
+        },
+        {
+          "name": "9",
           "layout": "BSP"
         }
       ]
