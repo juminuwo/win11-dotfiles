@@ -131,9 +131,9 @@ widgets:
   clock:
     type: "yasb.clock.ClockWidget"
     options:
-      label: "{%a, %d %b %H:%M}"
+      label: "{%a %Y/%m/%d, %H:%M}"
       label_alt: "{%A, %d %B %Y %H:%M}"
-      timezones: []
+      timezones: ["Europe/London", "Japan", "America/New_York"]
       calendar: 
         blur: false
         round_corners: false
